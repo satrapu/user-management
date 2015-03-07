@@ -1,4 +1,4 @@
-User Management
+User Management [![Build status](https://ci.appveyor.com/api/projects/status/1jb95ok0byly5e56/branch/master?svg=true)](https://ci.appveyor.com/project/satrapu/user-management/branch/master)
 ========================
 
 Description
